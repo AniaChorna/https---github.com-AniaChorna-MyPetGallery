@@ -4,6 +4,12 @@ Date: 09/18/2025
 Assignment: Module 3 - My Pet Gallery */
 
 body{
-    background-color: #e9e9e9;
+    background-color:burlywood;
     font-size: 18px;
+}
+.header{
+    text-align: center;
+}
+.header h2{
+    color: black;
 }
